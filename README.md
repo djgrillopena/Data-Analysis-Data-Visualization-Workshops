@@ -8,5 +8,7 @@ Conducted these workshops in the biggest hackathon in Newfoundland.
 The three workshops are: 
 
 1-) Jupyter Notebooks 
+
 2-) Pandas 
+
 3-) Seaborn &amp; Plotly Express
