@@ -12,3 +12,5 @@ The three workshops are:
 2-) Pandas 
 
 3-) Seaborn &amp; Plotly Express
+
+The dataset utilized is called "olympic_athletes_HFNL.csv", which contains the data obtained from the Olympic Games from 1992 - 2016
